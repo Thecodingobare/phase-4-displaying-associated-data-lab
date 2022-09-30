@@ -5,7 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-
+puts "Yoooh"
 cities = ["New York", "Chicago", "Seattle", "Washington D.C.", "Denver", "Houston"]
 adjectives = ["Gently Used", "Well-Loved", "Heirloom", "Antique", "WANTED", "Slightly damaged"]
 descriptions = ["Free to a good home", "(batteries not included)", "As is", "Like new", "(assembly required)", "No returns!!!!"]
@@ -24,3 +24,5 @@ descriptions = ["Free to a good home", "(batteries not included)", "As is", "Lik
     )
   end
 end
+
+puts "Tosha sasa!"
